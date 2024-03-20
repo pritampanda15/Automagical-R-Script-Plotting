@@ -17,7 +17,7 @@
 
 
 ###############    Step 1:  Change this filename    ############### 
-filename <- "~/Desktop/Automagical/variants.bed"
+filename <- "~/Automagical/variants.bed"
 
   # other examples:
   # filename <- "~/Desktop/my_folder/myfile.txt"
